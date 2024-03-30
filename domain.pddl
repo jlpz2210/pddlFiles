@@ -7,7 +7,7 @@
 		(laboratorio-en ?l - localizacion)
 		(rover-ocupado ?m - mineral)
 		(rover-vacio)
-		(ir ?l1 -localizacion ?l2 - localizacion)  
+		(ir ?l1 - localizacion ?l2 - localizacion)  
 	)
 	;————————————————————————————————————
 	(:action mover
